@@ -70,7 +70,7 @@ ul {
 a {
   text-decoration: none;
   text-transform: none;
-  color: #ffff;
+  color: #454959;
 
 }
 
@@ -359,6 +359,7 @@ so that the nav links stay perfectly centered in the browser.*/
 #portfolio {
 flex-basis: 100%
 }
+}
 
 
 @media (min-width: 1024px) {
@@ -388,4 +389,5 @@ flex-basis: 100%
   .top-nav li {
     width: initial;
     margin-bottom: 0;
+}
 }
